@@ -26,7 +26,6 @@
     "http": "^0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.3.2",
-    "node-polyfill-webpack-plugin": "^1.1.4",
     "path": "^0.12.7",
     "querystring": "^0.2.1",
     "razorpay": "^2.8.2",
